@@ -14,7 +14,7 @@ You can also change script for your needs. Add folder with test for example).
 
 ### Requirements
 - Linux/MacOS
-- Python 3.6+
+- Python 3.6+ (you need not install any additional Python packages)
 
 ### How to use
 1. Copy this file to your any folder
